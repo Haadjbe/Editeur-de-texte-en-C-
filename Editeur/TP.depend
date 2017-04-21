@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1459112588 source:e:\tp\tptry\decor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"../BIBLIO/ModeleLLC/LLC_Modele.h"
+
+1459013741 e:\tp\biblio\modelellc\llc_modele.h
+
+1458828420 source:e:\tp\tptry\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"../BIBLIO/ModeleLLC/LLC_Modele.h"
+
+1459197385 source:e:\aiouez_benmeziane_tp1_g9\projecttp\decor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"../BIBLIO/ModeleLLC/LLC_Modele.h"
+
+1459013741 e:\aiouez_benmeziane_tp1_g9\biblio\modelellc\llc_modele.h
+
+1458828420 source:e:\aiouez_benmeziane_tp1_g9\projecttp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"../BIBLIO/ModeleLLC/LLC_Modele.h"
+

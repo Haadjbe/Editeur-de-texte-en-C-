@@ -1,0 +1,15 @@
+Un logiciel de traitement de texte est le fait d'utiliser un ordinateur pour rediger,
+corriger et imprimer des documents écrits tels que des lettres, des articles de presse, des factures, des contrats ou de la publicite.
+Le traitement de texte est une des applications les plus populaires.
+Dans sa forme la plus simple, un programme permet de faire exactement ce qui est fait avec une machine a ecrire.
+Des programmes plus sophistiques permettent d'ajouter des photos ou des dessins,
+ainsi que modifier la taille et l'apparence des caracteres et verifier l'orthographe.
+Les documents ainsi crees peuvent ensuite etre imprimes autant de fois que necessaire.
+Le traitement de texte est donc l'ensemble des techniques informatiques permettant la saisie,
+la mémorisation, la correction, l’actualisation, la mise en forme et la diffusion d’un texte quelconque.
+Le traitement de texte permet egalement un niveau sophistique du document : verification automatique de l’orthographe,
+coupure automatique des phrases et de mots, mise en page, generation automatique des tables des matieres.
+En resume un logiciel de traitement de texte permet de :
+produire automatiquement un document avec des enrichissements typographiques
+stocker ce document pour pouvoir le récupérer, le stockage peut se faire sous une forme minimale (texte brut) ou dans son format originel de création
+diffuser sur support traditionnel ou electronique : imprime, sur disquette, cederom et sur les reseaux de communication electronique.
